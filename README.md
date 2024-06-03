@@ -2,6 +2,8 @@
 
 This project is a comprehensive e-commerce solution built using React Redux Toolkit for dynamic client-side experiences, paired with a Node Express API backend and MongoDB database. It delivers seamless functionalities for an immersive shopping experience, including intuitive product and category displays, robust cart management, secure checkout with payment integration, and comprehensive user authentication and authorization.
 
+#Switch to server-branch for backend codes and new-branch for client side front end code.
+
 
 ## Features
 
